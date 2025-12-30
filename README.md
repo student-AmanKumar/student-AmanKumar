@@ -77,9 +77,9 @@
 </div>
 <br>
 
-<!-- ## 📊 _Letsupgrade stats:_
+## 📊 _Letsupgrade stats:_
 
-<img src="Screenshot 2025-10-05 135654.png"> -->
+<img src="Screenshot 2025-10-05 135654.png">
 <br>
 
 
