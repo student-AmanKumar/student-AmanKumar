@@ -4,7 +4,7 @@
  <img alt="Stars" src="https://img.shields.io/github/stars/student-AmanKumar?style=flat&labelColor=343b41"/> 
 </p>
  
- # <div align="center"> 👨‍🎓 Hello! I'm Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
+ # <div align="center"> 👨‍🎓 Hello! I'm Aman ... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
 <h3 align="center">Final Year Student </h3>
 
 
