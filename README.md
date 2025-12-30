@@ -77,10 +77,10 @@
 </div>
 <br>
 
-## 📊 _Letsupgrade stats:_
+<!-- ## 📊 _Letsupgrade stats:_
 
 <img src="Screenshot 2025-10-05 135654.png">
-<br>
+<br> -->
 
 
 <img width="1000" height="350" src="img2.png">
