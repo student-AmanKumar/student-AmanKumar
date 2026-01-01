@@ -86,7 +86,6 @@
 
 <img width="1000" height="350" src="img2.png">
 
-### <div align="center">Thank You For Visiting My Profile!❤️</div>
 
 
 </div>
