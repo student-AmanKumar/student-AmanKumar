@@ -67,6 +67,7 @@
 
   
   ## 💻 Technical Skills:
+  <div align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp)](https://skillicons.dev)
 <a href="#" > <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="52" height="52"/></a>
 <a href="#" > <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="52" height="52"/></a>
@@ -74,7 +75,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="52" height="52"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="52" height="52"/>
 
 
-
+</div>
 ## 📅Databases:
  <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer">
@@ -115,7 +116,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=150&section=header&text=THANKS%20FOR%20VISITING%20🚀&fontSize=30&fontColor=00F5FF&animation=fadeIn" width="70%"/>
 
-</div>m
+</div>
 
 <div align="center">
 
