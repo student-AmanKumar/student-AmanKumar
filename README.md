@@ -62,7 +62,7 @@
   </circle>
 
   <!-- Profile Image -->
-  <image href="YOUR_IMAGE_LINK"
+  <image href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf1fiSQO7JfDw0uv1Ae_Ye-Bo9nhGNg27dwg&s"
          x="40" y="40"
          width="170" height="170"
          clip-path="url(#circleView)" />
