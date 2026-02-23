@@ -39,9 +39,13 @@
 <a href="https://github.com/student-AmanKumar" target="blank"> 
     <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
   </a>
-  <a href="https://aman-digital-profile.netlify.app/" target="blank"> 
-    <img  align ="center" src="https://www.citypng.com/public/uploads/preview/hd-profile-user-round-blue-icon-symbol-transparent-png-701751695033492ww0i0raud4.png?v=2026012916" alt="profile badge"  height="50" width="50"/>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
   </a>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
+  </a>
+
 </p>
   
   ## 💻 Technical Skills:
