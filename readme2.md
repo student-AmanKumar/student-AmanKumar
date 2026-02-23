@@ -6,10 +6,10 @@
 
 <!-- Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&width=600&lines=👨‍🎓+Hello!+I'm+Aman+Kumar;💻+Web+Developer;🚀+Final+Year+BCA+Student;✨+Welcome+to+my+3D+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F7FF&width=600&lines=👨‍🎓+Hello!+I'm+Aman+Kumar;💻+Web+Developer;🚀+Final+Year+BCA+Student;✨+Welcome+to+my+Profile" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Final Year Student | Creative Tech Explorer</h3>
+<h3 align="center">Final Year Student | Web Developer | Tech Explorer</h3>
 
 <!-- Animated Divider -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=🚀+Portfolio+Showcase&fontSize=30&fontColor=fff"/>
@@ -19,23 +19,18 @@
 ## 🧑‍💻 About Me:
 <img align="right" alt="coder" width="300" height="240" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-✨ I’m **Aman Kumar**, a passionate **Web Developer** and **Final Year BCA Student**.  
-💡 I love blending **creativity with technology** to build responsive, animated, and futuristic web experiences.  
-🌍 Currently studying at **RMPSSU Aligarh**.  
-🚀 My goal: to craft **portfolio-ready projects** that stand out with **3D design, animations, and modern UI/UX**.  
-🤝 Actively seeking opportunities in **Frontend Development** and **Creative Tech Projects**.  
+- 🎓 Final Year **BCA Student** at **RMPSSU Aligarh**  
+- 💡 Passionate about **Frontend Web Development** and **UI/UX Design**  
+- 🌍 Building **responsive, animated, and futuristic projects**  
+- 🚀 Skilled in **React, Next.js, Tailwind, Bootstrap**  
+- 🤝 Actively looking for opportunities in **Web Development**  
+- 🌟 Portfolio: [Portfolio Website](https://aman-digital-profile.netlify.app/)  
 
 ---
 
 ## 💻 Technical Skills:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,c,cpp,dotnet,php,pandas,seaborn" />
-</p>
-
-<p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/html-3d-icon-download-in-png-blend-fbx-gltf-file-formats--hypertext-markup-language-coding-programming-pack-logos-icons-5694582.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/css-3d-icon-download-in-png-blend-fbx-gltf-file-formats--cascading-style-sheets-coding-programming-pack-logos-icons-5694583.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/javascript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--programming-language-pack-logos-icons-5694584.png?f=webp" width="70"/>
 </p>
 
 ---
@@ -56,14 +51,6 @@
   <img src="https://skillicons.dev/icons?i=git,vscode,figma,github,postman,docker" />
 </p>
 
-<p align="center">
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/git-3d-icon-download-in-png-blend-fbx-gltf-file-formats--version-control-pack-logos-icons-5694591.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--editor-pack-logos-icons-5694592.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/figma-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-tool-pack-logos-icons-5694593.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/postman-3d-icon-download-in-png-blend-fbx-gltf-file-formats--api-testing-pack-logos-icons-5694594.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/docker-3d-icon-download-in-png-blend-fbx-gltf-file-formats--container-pack-logos-icons-5694595.png?f=webp" width="70"/>
-</p>
-
 ---
 
 ## 💻 Software Applications:
@@ -72,6 +59,27 @@
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+</p>
+
+---
+
+## 🌟 Projects Showcase:
+<p align="center">
+  <a href="https://github.com/student-AmanKumar/Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=student-AmanKumar&repo=Portfolio-Website&theme=radical" />
+  </a>
+  <a href="https://github.com/student-AmanKumar/Study-Tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=student-AmanKumar&repo=Study-Tools&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/student-AmanKumar/Team-Section-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=student-AmanKumar&repo=Team-Section-UI&theme=radical" />
+  </a>
+  <a href="https://github.com/student-AmanKumar/Digital-Cards">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=student-AmanKumar&repo=Digital-Cards&theme=radical" />
+  </a>
 </p>
 
 ---
