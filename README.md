@@ -26,21 +26,26 @@
 <br />
 
  <!-- <img width="1000" height="335" src="img1.png"> -->
+<h1 align="center">✨ My Stylish Header ✨</h1>
 
- <div align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120">
+<div align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120" style="cursor:pointer;">
     <defs>
       <clipPath id="circleView">
         <circle cx="60" cy="60" r="58"/>
       </clipPath>
     </defs>
-    <image href="https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740&q=80" width="120" height="120" clip-path="#">
+    <!-- User Image -->
+    <image href="https://www.flaticon.com/free-icon/profile_3135715" width="120" height="120" clip-path="url(#circleView)">
       <animateTransform attributeName="transform" type="rotate" from="0 60 60" to="360 60 60" dur="6s" repeatCount="indefinite"/>
     </image>
-    <circle cx="60" cy="60" r="58" fill="none" stroke="#4db6ff" stroke-width="3"/>
+    <!-- Stylish Border -->
+    <circle cx="60" cy="60" r="58" fill="none" stroke="#4db6ff" stroke-width="3">
+      <animate attributeName="stroke" values="#4db6ff;#ff4db6;#4db6ff" dur="6s" repeatCount="indefinite"/>
+    </circle>
   </svg>
 </div>
- 
+
 
 
 
