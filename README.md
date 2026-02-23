@@ -111,7 +111,11 @@
 <br> -->
 
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=150&section=header&text=THANKS%20FOR%20VISITING%20🚀&fontSize=30&fontColor=00F5FF&animation=fadeIn" width="70%"/>
+
+</div>m
 
 <div align="center">
 
