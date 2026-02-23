@@ -25,7 +25,21 @@
 
 <br />
 
- <img width="1000" height="335" src="img1.png"> 
+ <!-- <img width="1000" height="335" src="img1.png"> -->
+ <p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <defs>
+      <clipPath id="circleClip">
+        <circle cx="100" cy="100" r="90"/>
+      </clipPath>
+    </defs>
+    <image href="your-image.png" width="200" height="200" clip-path="url(#circleClip)">
+      <animateTransform attributeName="transform" attributeType="XML"
+        type="rotate" from="0 100 100" to="360 100 100"
+        dur="10s" repeatCount="indefinite"/>
+    </image>
+  </svg>
+</p>
 
 
 
