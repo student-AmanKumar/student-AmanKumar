@@ -13,7 +13,7 @@
 <h3 align="center">Final Year Student | Creative Tech Explorer</h3>
 
 <!-- Animated Divider -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=🚀+Portfolio+Showcase&fontSize=30&fontColor=fff"/>
+<a href="https://aman-digital-profile.netlify.app/"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=🚀+Portfolio+Showcase&fontSize=30&fontColor=fff"/></a>
 
 <!-- Banner -->
 <img width="1000" height="335" src="img1.png">
