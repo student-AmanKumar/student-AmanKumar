@@ -30,7 +30,7 @@
 
  # <div align="center"> Welcome To My GitHub Profille. </div>
  
-<div align="center">
+
 
   ## 🧑‍💻About Me:
 
@@ -45,10 +45,10 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-digital-profile.netlify.app/)
   [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/ydvaman)
 </a>
-</div>
 
 
-<div align="center">
+
+
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
 
@@ -64,9 +64,7 @@
   </a>
    <a href="https://aman-digital-profile.netlify.app">
     <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
-  </a>
-</div>
-</div>
+  
 
   
   ## 💻 Technical Skills:
@@ -78,12 +76,12 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="52" height="52"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="52" height="52"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="52" height="52"/>
 
 
-<div align="center">
+
 
 ## 📅Databases:
  <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer">
- </div>
+ 
 ## ⚙️Tools:
 ![My Skills](https://skillicons.dev/icons?i=git)
 <a href="#"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/></a>
@@ -93,14 +91,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/MSSQL_SSMS_21_icon.png/250px-MSSQL_SSMS_21_icon.png" width ="55" height="55"/>
 
-<div align="center">
 
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <a href="#">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
 <a href="#">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) </a>
 
-</div>
   <br />
 
 ## 📊 _GitHub Stats:_
