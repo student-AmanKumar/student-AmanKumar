@@ -25,7 +25,51 @@
 
 <br />
 
-<img width="1000" height="335" src="img1.png">
+<!-- <img width="1000" height="335" src="img1.png"> -->
+<div align="center">
+
+<svg width="250" height="250" viewBox="0 0 250 250">
+
+  <!-- Neon Glow Filter -->
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <clipPath id="circleView">
+      <circle cx="125" cy="125" r="85"/>
+    </clipPath>
+  </defs>
+
+  <!-- Rotating Neon Ring -->
+  <circle cx="125" cy="125" r="100"
+    stroke="#00f5ff"
+    stroke-width="6"
+    fill="transparent"
+    stroke-dasharray="15 10"
+    filter="url(#glow)">
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      from="0 125 125"
+      to="360 125 125"
+      dur="6s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Profile Image -->
+  <image href="YOUR_IMAGE_LINK"
+         x="40" y="40"
+         width="170" height="170"
+         clip-path="url(#circleView)" />
+
+</svg>
+
+</div>
 
 
  # <div align="center"> Welcome To My GitHub Profille. </div>
