@@ -98,8 +98,8 @@
 ## 📊 _GitHub Stats:_
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=student-AmanKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=student-AmanKumar&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
 
 </div>
 
