@@ -4,9 +4,23 @@
  <img alt="Stars" src="https://img.shields.io/github/stars/student-AmanKumar?style=flat&labelColor=343b41"/> 
 </p>
  
- # <div align="center"> 👨‍🎓 Hello! I'm Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
-<h3 align="center">Final Year Student </h3>
+<!-- =================================================================================== -->
+<!--                ⚡ GLASSMORPHISM + NEON 3D ANIMATED GITHUB README ⚡              -->
+<!-- =================================================================================== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=AMAN%20KUMAR&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Glassmorphism%20%7C%20Neon%20Developer%20%7C%203D%20Creator&descAlignY=60&descAlign=50" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman+Kumar;3D+Creative+Developer;Building+Futuristic+Neon+Experiences;Welcome+to+My+GitHub+Profile" />
+
+</div>
 
 
 <br />
