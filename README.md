@@ -40,7 +40,7 @@
     <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
   </a>
   <a href="https://aman-digital-profile.netlify.app/" target="blank"> 
-    <img  align ="center" src="https://png.pngtree.com/png-clipart/20200224/original/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_5247852.jpg" alt="profile badge"  height="50" width="50" border-radius="50%"/>
+    <img  align ="center" src="https://www.citypng.com/public/uploads/preview/hd-profile-user-round-blue-icon-symbol-transparent-png-701751695033492ww0i0raud4.png?v=2026012916" alt="profile badge"  height="50" width="50"/>
   </a>
 </p>
   
