@@ -96,11 +96,13 @@
   <br />
 
 ## 📊 _GitHub Stats:_
-![Aman Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-AmanKumar&show_icons=true&theme=dark)
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-AmanKumar&theme=dark&hide_border=false"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-AmanKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
+
 </div>
+
 <br>
 
 <!-- ## 📊 _Letsupgrade stats:_
