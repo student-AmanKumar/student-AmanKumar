@@ -36,15 +36,21 @@
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/aman-kumar-462a21316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="#" height="55" width="55" /></a>
-<a href="https://www.instagram.com/gcmtaligarh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="#" height="55" width="55" /></a>
-<a href="https://github.com/student-AmanKumar" target="blank"> 
-    <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
+<div id="badges">
+  <a href="https://github.com/student-AmanKumar">
+    <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  
-</p>
+   <a href="#">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://codepen.io/ydvaman">
+    <img src="https://img.shields.io/badge/Codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  </a>
+   <a href="https://aman-digital-profile.netlify.app">
+    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
+  </a>
+</div>
+
   
   ## 💻 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp)](https://skillicons.dev)
