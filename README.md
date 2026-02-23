@@ -26,19 +26,10 @@
 <br />
 
  <!-- <img width="1000" height="335" src="img1.png"> -->
- <p align="center">
-  <svg width="200" height="200" viewBox="0 0 200 200">
-    <defs>
-      <clipPath id="circleClip">
-        <circle cx="100" cy="100" r="90"/>
-      </clipPath>
-    </defs>
-    <image href="https://github.com/user-attachments/assets/bf156142-07a9-4881-a522-b479f5a0f2a1" width="200" height="200" clip-path="url(#circleClip)">
-      <animateTransform attributeName="transform" attributeType="XML"
-        type="rotate" from="0 100 100" to="360 100 100"
-        dur="10s" repeatCount="indefinite"/>
-    </image>
-
+<p align="center">
+  <a href="https://mellow-biscochitos-8a67a3.netlify.app/" target="_blank">
+ 
+  </a>
 </p>
 
 
