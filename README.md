@@ -39,6 +39,9 @@
 <a href="https://github.com/student-AmanKumar" target="blank"> 
     <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
   </a>
+  <a href="https://aman-digital-profile.netlify.app/" target="blank"> 
+    <img  align ="center" src="https://png.pngtree.com/png-vector/20191110/ourmid/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396.jpg" alt="profile badge"  height="50" width="50"/>
+  </a>
 </p>
   
   ## 💻 Technical Skills:
