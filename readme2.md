@@ -1,4 +1,3 @@
-
 <!-- Profile Views & Stars -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=student-AmanKumar&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Kumar" />
@@ -13,42 +12,18 @@
 <h3 align="center">Final Year Student | Creative Tech Explorer</h3>
 
 <!-- Animated Divider -->
-<a href="https://aman-digital-profile.netlify.app/"><img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=🚀+Portfolio+Showcase&fontSize=30&fontColor=fff"/></a>
-
-<!-- Banner -->
-<img width="1000" height="335" src="img1.png">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=🚀+Portfolio+Showcase&fontSize=30&fontColor=fff"/>
 
 ---
 
 ## 🧑‍💻 About Me:
 <img align="right" alt="coder" width="300" height="240" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
-- 🎓 Computer Science **Student**, passionate about **Web Development**  
-- 🌍 Studying at **RMPSSU Aligarh**  
-- ⭐ Currently in **BCA Final Year**  
-- 🤝 Looking for a **Web Development Job**  
-- 🚀 Explore my projects:  
-  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/student-AmanKumar)  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-digital-profile.netlify.app/)  
-  [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/ydvaman)
-
----
-
-## 🤝 Connect with Me:
-<p align="center">
-  <a href="https://github.com/student-AmanKumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://codepen.io/ydvaman">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-  </a>
-  <a href="https://aman-digital-profile.netlify.app">
-    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
-</p>
+✨ I’m **Aman Kumar**, a passionate **Web Developer** and **Final Year BCA Student**.  
+💡 I love blending **creativity with technology** to build responsive, animated, and futuristic web experiences.  
+🌍 Currently studying at **RMPSSU Aligarh**.  
+🚀 My goal: to craft **portfolio-ready projects** that stand out with **3D design, animations, and modern UI/UX**.  
+🤝 Actively seeking opportunities in **Frontend Development** and **Creative Tech Projects**.  
 
 ---
 
@@ -70,15 +45,23 @@
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/mysql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-pack-logos-icons-5694585.png?f=webp" width="90"/>
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/oracle-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-pack-logos-icons-5694586.png?f=webp" width="90"/>
   <img src="https://cdn3d.iconscout.com/3d/premium/thumb/sql-server-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-pack-logos-icons-5694587.png?f=webp" width="90"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/mongodb-3d-icon-download-in-png-blend-fbx-gltf-file-formats--nosql-database-pack-logos-icons-5694589.png?f=webp" width="90"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/postgresql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-pack-logos-icons-5694590.png?f=webp" width="90"/>
 </p>
 
 ---
 
 ## ⚙️ Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/microsoft-power-bi-3d-icon-png-download-8500319.png?f=webp" width="70"/>
-  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/jupyter-3d-icon-download-in-png-blend-fbx-gltf-file-formats--notebook-pack-logos-icons-5694588.png?f=webp" width="70"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,github,postman,docker" />
+</p>
+
+<p align="center">
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/git-3d-icon-download-in-png-blend-fbx-gltf-file-formats--version-control-pack-logos-icons-5694591.png?f=webp" width="70"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/visual-studio-code-3d-icon-download-in-png-blend-fbx-gltf-file-formats--editor-pack-logos-icons-5694592.png?f=webp" width="70"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/figma-3d-icon-download-in-png-blend-fbx-gltf-file-formats--design-tool-pack-logos-icons-5694593.png?f=webp" width="70"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/postman-3d-icon-download-in-png-blend-fbx-gltf-file-formats--api-testing-pack-logos-icons-5694594.png?f=webp" width="70"/>
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/docker-3d-icon-download-in-png-blend-fbx-gltf-file-formats--container-pack-logos-icons-5694595.png?f=webp" width="70"/>
 </p>
 
 ---
@@ -88,6 +71,7 @@
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
 ---
