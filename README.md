@@ -25,7 +25,22 @@
 
 <br />
 
- <img width="1000" height="335" src="img1.png"> 
+ <!-- <img width="1000" height="335" src="img1.png"> -->
+
+ <div align="center">
+  <svg width="120" height="120" viewBox="0 0 120 120">
+    <defs>
+      <clipPath id="circleView">
+        <circle cx="60" cy="60" r="58"/>
+      </clipPath>
+    </defs>
+    <image href="https://your-image-link.jpg" width="120" height="120" clip-path="https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg?semt=ais_hybrid&w=740&q=80">
+      <animateTransform attributeName="transform" type="rotate" from="0 60 60" to="360 60 60" dur="6s" repeatCount="indefinite"/>
+    </image>
+    <circle cx="60" cy="60" r="58" fill="none" stroke="#4db6ff" stroke-width="3"/>
+  </svg>
+</div>
+ 
 
 
 
