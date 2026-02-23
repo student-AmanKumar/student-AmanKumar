@@ -110,17 +110,12 @@
 <img src="Screenshot 2025-10-05 135654.png">
 <br> -->
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=150&section=header&text=THANKS%20FOR%20VISITING%20🚀&fontSize=30&fontColor=00F5FF&animation=fadeIn" width="70%"/>
-
-</div>
 
 ---
 
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> -->
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
 
