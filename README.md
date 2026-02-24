@@ -17,7 +17,7 @@
 
 
  <div align="center">
-  <img src="profile.png" height="189" width="189" style="border-radius: 50%; object-fit: cover;" />
+  <img src="profile.png" height="180" width="189" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 
