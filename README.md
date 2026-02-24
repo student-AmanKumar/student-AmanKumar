@@ -15,7 +15,7 @@
 </div>
 
 
-<img src="circle img.jpeg">
+<img src="circle img.jpeg" height="100" width="100">
 
 
 <!-- <img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" /> -->
