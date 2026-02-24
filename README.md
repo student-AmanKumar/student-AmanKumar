@@ -14,7 +14,8 @@
 
 </div
 
-<img src="https://github.com/user-attachments/assets/82457c36-50c8-4793-853d-c9fb836bdef6" width="200" height="200" />
+<img src="https://github.com/user-attachments/assets/a732b888-69cd-469e-8469-daa6fe680663" width="200" height="200" />
+
 
 
 <!-- <img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" /> -->
