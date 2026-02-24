@@ -19,7 +19,7 @@
   <img src="circle img.png" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
 </div> -->
 <div align="center">
-  <img src="circle img.png" height="150" width="150" style="border-radius: 50%; object-fit: cover;" />
+  <img src="https://www.canva.com/design/DAHCNH3R_-k/WPr_4xpcKcCX3Nba9aDicg/edit?utm_content=DAHCNH3R_-k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" height="150" width="150" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 
