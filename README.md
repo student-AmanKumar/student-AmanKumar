@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman+Kumar;Web+Developer;Welcome+to+My+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman;Web+Developer;Student;Welcome+to+My+GitHub+Profile" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 
 
- # <div align="center"> Welcome To My GitHub Profille. </div>
+ <!-- # <div align="center"> Welcome To My GitHub Profille. </div>-->
  
 
 
