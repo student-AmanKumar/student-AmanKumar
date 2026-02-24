@@ -4,18 +4,46 @@
  <img alt="Stars" src="https://img.shields.io/github/stars/student-AmanKumar?style=flat&labelColor=343b41"/> 
 </p>
  
- # <div align="center"> 👨‍🎓 Hello! I'm Aman Kumar... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></div>
-<h3 align="center">Final Year Student </h3>
+<!-- =================================================================================== -->
+<!--                ⚡ GLASSMORPHISM + NEON 3D ANIMATED GITHUB README ⚡              -->
+<!-- =================================================================================== -->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=AMAN%20KUMAR&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+
+</div>
+
+
+
+
+
+<!-- <img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" /> -->
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman;Web+Developer;Student;Welcome+to+My+GitHub+Profile" />
+
+</div>
 
 
 <br />
 
-<img width="1000" height="335" src="img1.png">
-
-
- # <div align="center"> Welcome To My GitHub Profille. </div>
+ <!-- <img width="1000" height="335" src="img1.png"> -->
+ <p align="center">
+  <a href="https://mellow-biscochitos-8a67a3.netlify.app/" target="_blank">
  
+  </a>
+</p>
+
+
+
+
+
+ <!-- # <div align="center"> Welcome To My GitHub Profille. </div>-->
+ 
+
 
   ## 🧑‍💻About Me:
 
@@ -25,23 +53,35 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> I am studying in  ** RMPSSU Aligarh **
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" align=center /> I’m currently studying in ** BCA **  **Final Year** 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> **I am looking a job** in  *Web *Development**
-- <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center"> **Projects** are available at <a href="https://github.com/student-AmanKumar">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) </a> <a href="https://www.linkedin.com/in/aman-kumar-462a21316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Linkedin" height="30" width="30" /></a><a href="#" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8kGzfZ-8PLGqrDxILdSGgOFELdYHDfi7vQ&s" alt="Netlify" height="30" width="30" /></a>
+- <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center"> **Projects** are available at <a href="https://github.com/student-AmanKumar">
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/student-AmanKumar)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-digital-profile.netlify.app/)
+  [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/ydvaman)
+</a>
+
 
 
 
 
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Connect with me:</h2>
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/aman-kumar-462a21316/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="#" height="55" width="55" /></a>
-<a href="https://www.instagram.com/gcmtaligarh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="#" height="55" width="55" /></a>
-<a href="https://github.com/student-AmanKumar" target="blank"> 
-    <img  align ="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLQRdhYjGRBRadNoiJfrD3r9oK8oIMqVBuLI-xAwf-XMjd_qx4ra7c8hj7ArtGdZiZN0A&usqp=CAU" alt="Github Badge"  height="50" width="50"/>
+<div id="badges" >
+  <a href="https://github.com/student-AmanKumar">
+    <img src="https://img.shields.io/badge/Github-013243?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-</p>
+   <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="https://codepen.io/ydvaman">
+    <img src="https://img.shields.io/badge/Codepen-gray?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  </a>
+   <a href="https://aman-digital-profile.netlify.app">
+    <img src="https://img.shields.io/badge/Profile-B7472A?style=for-the-badge&logo=Profile&logoColor=white" alt="Profile Badge"/>
+  
+
   
   ## 💻 Technical Skills:
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp)](https://skillicons.dev)
 <a href="#" > <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="52" height="52"/></a>
 <a href="#" > <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="52" height="52"/></a>
@@ -50,9 +90,11 @@
 
 
 
+
 ## 📅Databases:
  <a href="#" target="blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="80" height="80"/> </a>
  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/> </a> <a href="#" target="_blank" rel="noreferrer">
+ 
 ## ⚙️Tools:
 ![My Skills](https://skillicons.dev/icons?i=git)
 <a href="#"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50" height="50"/></a>
@@ -62,19 +104,20 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/MSSQL_SSMS_21_icon.png/250px-MSSQL_SSMS_21_icon.png" width ="55" height="55"/>
 
+
 ## 💻Software Applications:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 <a href="#">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
 <a href="#">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) </a>
 
-
   <br />
 
 ## 📊 _GitHub Stats:_
-![Aman Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=student-AmanKumar&show_icons=true&theme=dark)
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=student-AmanKumar&theme=dark&hide_border=false"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=student-AmanKumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=student-AmanKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=student-AmanKumar&theme=tokyonight&hide_border=true&background=0f0c29&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff"/>
+
 </div>
 <br>
 
@@ -84,10 +127,17 @@
 <br> -->
 
 
-<img width="1000" height="350" src="img2.png">
+<div align="center">
 
-### <div align="center">Thank You For Visiting My Profile!❤️</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24243e&height=150&section=header&text=THANKS%20FOR%20VISITING%20🚀&fontSize=30&fontColor=00F5FF&animation=fadeIn" width="70%"/>
+</div>
 
+<div align="center">
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
 
+
+
+</div>
