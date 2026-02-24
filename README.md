@@ -44,7 +44,7 @@
 
   ## 🧑‍💻About Me:
 
-  <img align="right" alt= "coder" width="300" height="240" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
+  <img align="right" alt= "coder" width="300" height="240" src="https://assets-v2.lottiefiles.com/a/3f9cf38a-116d-11ee-b74f-03d8ed1ed29e/yvKlzf67SM.gif"/>
 
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> Computer science **Student** and more passionate about **Web Development**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> I am studying in  ** RMPSSU Aligarh **
