@@ -125,7 +125,7 @@
  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/> 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thank%20you%20for%20visiting&fontSize=20&fontColor=orange"/> 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thank%20you%20for%20visiting&🚀&fontSize=20&fontColor=FFA500&textAlign=right"/> -->
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=🚀%20Thank%20you%20for%20visiting&fontSize=20&fontColor=FFA500&textAlign=center"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=%20Thank%20you%20for%20visiting 🚀&fontSize=20&fontColor=FFA500&textAlign=center"/>
 
 </div>
 
