@@ -26,11 +26,11 @@
 <br />
 
  <!-- <img width="1000" height="335" src="img1.png"> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://mellow-biscochitos-8a67a3.netlify.app/" target="_blank">
  
   </a>
-</p>
+</p> -->
 
 
 
