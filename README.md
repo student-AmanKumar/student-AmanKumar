@@ -14,7 +14,8 @@
 
 </div>
 
-<img src="https://www.canva.com/design/DAHCNBm7e-0/o8uWTbzlWzWNlkcavANTzA/watch?utm_content=DAHCNBm7e-0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h2c2b693fc8">
+
+<img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" />
 
 <div align="center">
 
