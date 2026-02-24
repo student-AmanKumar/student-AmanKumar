@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman+Kumar;3D+Creative+Developer;Building+Futuristic+Neon+Experiences;Welcome+to+My+GitHub+Profile" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aman+Kumar;Web+Developer;Student+Tech Enthusiast;Welcome+to+My+GitHub+Profile" />
 
 </div>
 
