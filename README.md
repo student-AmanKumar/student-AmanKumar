@@ -17,7 +17,7 @@
 <!-- <div align="center">
 <img src="circle img.jpeg" height="150" width="150" background="none"> -->
 <div align="center">
-  <img src="circle-img.png" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
+  <img src="circle img.jpeg" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
 </div>
 </div> 
 
