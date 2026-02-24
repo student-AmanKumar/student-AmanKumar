@@ -19,7 +19,7 @@
   <img src="circle img.png" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
 </div> -->
 <div align="center">
-  <img src="circle.png" height="200" width="200" style="border-radius: 50%; object-fit: cover;" />
+  <img src="circle.png" height="189" width="180" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
 
