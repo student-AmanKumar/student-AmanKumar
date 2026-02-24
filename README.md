@@ -13,10 +13,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=AMAN%20KUMAR&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
 </div>
-<div align="center">
 
-<img src="circle img.jpeg" height="150" width="150" background="none">
+<!-- <div align="center">
+<img src="circle img.jpeg" height="150" width="150" background="none"> -->
+<div align="center">
+  <img src="circle-img.png" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
 </div>
+</div> 
 
 <!-- <img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" /> -->
 
@@ -102,7 +105,7 @@
 <a href="#">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a>
 <a href="#">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) </a>
 
-  <br />
+  <br>
 
 ## 📊 _GitHub Stats:_
 <div align="center">
