@@ -12,7 +12,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=270&section=header&text=AMAN%20KUMAR&fontSize=60&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 
-</div
+</div>
 
 
 
