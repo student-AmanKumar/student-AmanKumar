@@ -19,19 +19,9 @@
   <img src="circle img.png" height="150" width="150" style="border-radius: 50%; border: none; background: transparent;" />
 </div> -->
 <div align="center">
-  <img src="circle img.png" class="profile-pic" />
+  <img src="circle img.png" height="150" width="150" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
-<style>
-  .profile-pic {
-    height: 150px;
-    width: 150px;
-    border-radius: 50%;   /* Circle shape */
-    border: none;         /* Remove border */
-    background: transparent; /* Transparent background */
-    object-fit: cover;    /* Crop image neatly inside circle */
-  }
-</style>
 
 
 <!-- <img width="320" height="320" alt="Brown Modern Profile Picture Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/ae45f681-3c3f-4857-9198-fe78f950b5c1" /> -->
