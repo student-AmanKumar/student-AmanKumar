@@ -16,13 +16,9 @@
 
 
 
-<!-- <div align="center">
+ <div align="center">
   <img src="profile.png" height="189" width="180" style="border-radius: 50%; object-fit: cover;" />
-</div> -->
-<a href="https://mellow-biscochitos-8a67a3.netlify.app/"></a>
-
-
-
+</div>
 
 
 <div align="center">
@@ -116,11 +112,6 @@
 
 </div>
 <br>
-
-
-
-
-
 
 
 
