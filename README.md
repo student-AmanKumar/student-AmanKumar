@@ -47,7 +47,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" align=center /> **I am looking a job** in  *Web *Development**
 - <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="24" align="center"> **Projects** are available at <a href="https://github.com/student-AmanKumar">
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/student-AmanKumar)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-digital-profile.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-portfolio-netlify.netlify.app/)
   [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/ydvaman)
 </a>
 
