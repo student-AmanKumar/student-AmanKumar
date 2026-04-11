@@ -49,7 +49,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/student-AmanKumar)
   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://aman-portfolio-netlify.netlify.app/)
   [![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=flat-square&logo=codepen&logoColor=#FF7139)](https://codepen.io/ydvaman)
-  [![ https://png.pngtree.com/png-clipart/20240310/original/pngtree-idea-emoji-png-image_14555200.png](https://codepen.io/ydvaman)
+  [![ ](https://png.pngtree.com/png-clipart/20240310/original/pngtree-idea-emoji-png-image_14555200.png)](https://codepen.io/ydvaman)
 
 </a>
 
