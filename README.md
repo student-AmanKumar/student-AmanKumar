@@ -50,7 +50,10 @@
 
 ---
 
-<h3 align="center">🔴 FIND ME ONLINE</h3>
+<h3 align="center">
+  <img src="/me.png" width="24" height="24" alt="Aman Kumar Logo" />
+  FIND ME ONLINE
+</h3>
 
 <div align="center">
 
@@ -58,7 +61,7 @@
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/"><img src="/linkedin.png" width="34" height="34" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="https://codepen.io/ydvaman"><img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="28" height="26" alt="CodePen" /></a>
+<a href="https://codepen.io/ydvaman"><img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="28" height="27" alt="CodePen" /></a>
 
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/Task2/"><img src="/me.png" width="35" height="35" alt="Portfolio" /></a>
 
