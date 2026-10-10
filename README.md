@@ -66,9 +66,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="30" height="30"/> 
 </a>
 
-<a href="https://student-amankumar.github.io/aman-digital-space/" style="text-decoration:none; border-bottom:0;">
-  <img src="/portfolio-logo.png" width="24" height="24" alt="Portfolio" />
-</a>
+<a href="https://student-amankumar.github.io/aman-digital-space/"><img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /></a>
 
 <br><br>
 
