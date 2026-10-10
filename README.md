@@ -54,9 +54,9 @@
 
 <div align="center">
 
- <a href="https://github.com/student-AmanKumar"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="26" height="26" alt="GitHub" /></a>
+ <a href="https://github.com/student-AmanKumar"><img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="34" height="34" alt="GitHub" /></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aman-kumar-462a21316/"><img src="/linkedin.png" width="30" height="30" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-462a21316/"><img src="/linkedin.png" width="34" height="34" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="https://codepen.io/ydvaman"><img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="26" height="26" alt="CodePen" /></a>
 
