@@ -50,6 +50,12 @@
 
 ---
 
+
+<div align="center">
+  <img src="/intern-profile.svg?v=1" width="100%" alt="Aman Kumar — Internship Experience" />
+</div>
+
+
 <h3 align="center">
   <code>⌘</code>&nbsp; FIND ME ONLINE
 </h3>
