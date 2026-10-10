@@ -81,7 +81,7 @@ SQL · Analytics · Dashboards
 <table>
 <tr>
 <td align="center" width="90">
-<img src="/id.png" width="48" height="48" alt="CodSoft logo" />
+<img src="codsoft.png" width="48" height="48" alt="CodSoft logo" />
 </td>
 <td valign="middle">
 
@@ -95,7 +95,7 @@ Data cleaning, exploratory data analysis, dashboards, and customer analysis.
 </tr>
 <tr>
 <td align="center" width="90">
-<img src="./assets/images/codealpha.png" width="48" height="48" alt="CodeAlpha logo" />
+<img src="codealpha.png" width="48" height="48" alt="CodeAlpha logo" />
 </td>
 <td valign="middle">
 
