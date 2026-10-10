@@ -1,0 +1,52 @@
+ <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="180" viewBox="0 0 1000 180">
+  <defs>
+    <linearGradient id="flow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#247bff">
+        <animate attributeName="stop-color" values="#247bff;#8b5cf6;#ff354f;#247bff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff354f">
+        <animate attributeName="stop-color" values="#ff354f;#247bff;#8b5cf6;#ff354f" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#ff354f;#247bff;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="180" rx="18" fill="#070b16"/>
+  <ellipse cx="500" cy="90" rx="270" ry="45" fill="none" stroke="url(#flow)" stroke-width="1.5" opacity=".65" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 500 90" to="360 500 90" dur="16s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="500" cy="90" rx="205" ry="28" fill="none" stroke="url(#flow)" stroke-width="1" opacity=".5">
+    <animateTransform attributeName="transform" type="rotate" from="360 500 90" to="0 500 90" dur="12s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <g fill="url(#flow)" filter="url(#glow)">
+    <circle cx="245" cy="90" r="3">
+      <animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="755" cy="90" r="3">
+      <animate attributeName="opacity" values="1;.2;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="45" r="3">
+      <animate attributeName="r" values="2;5;2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="135" r="3">
+      <animate attributeName="r" values="5;2;5" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path d="M330 90 H440 M560 90 H670" stroke="url(#flow)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M485 90 l15 -12 15 12 -15 12 Z" fill="none" stroke="url(#flow)" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate" values="0 500 90;360 500 90" dur="8s" repeatCount="indefinite"/>
+  </path>
+</svg>
