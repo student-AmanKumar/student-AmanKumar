@@ -44,6 +44,11 @@
 </div>
 
 <div align="center">
+  <img src="/intern-profile.svg?v=1" width="100%" alt="Aman Kumar — Internship Experience" />
+</div>
+
+
+<div align="center">
   <img src="/connect.svg" width="100%" alt="Connect with Aman Kumar" />
 </div>
 
@@ -51,9 +56,7 @@
 ---
 
 
-<div align="center">
-  <img src="/intern-profile.svg?v=1" width="100%" alt="Aman Kumar — Internship Experience" />
-</div>
+
 
 
 <h3 align="center">
