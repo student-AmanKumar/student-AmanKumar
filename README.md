@@ -10,6 +10,9 @@
 
 <img src="/projects.svg" width="100%" alt="Aman Kumar featured projects" />
 
+<img src="/connect.svg" width="100%" alt="Aman Kumar featured projects" />
+
+
 </div>
 
 ---
