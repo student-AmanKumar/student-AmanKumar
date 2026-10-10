@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="./assets/images/aman.png" width="100" height="100" alt="Aman Kumar" />
+<img src="/id.png" width="100" height="100" alt="Aman Kumar" />
 
 <h2>01 / ABOUT</h2>
 
