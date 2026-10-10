@@ -65,11 +65,21 @@
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/Task2/"><img src="/me.png" width="35" height="35" alt="Portfolio" /></a>
 
 <br><br>
+ <div align="center">
 
-<sub><strong>Designed & built with curiosity by Aman Kumar.</strong></sub>
+<h2>
+  <span>Designed &amp; built with curiosity by</span><br>
+  <strong>⚡ Aman Kumar</strong>
+</h2>
 
-<br>
+<p>
+  <strong>🌐 Web Development</strong>
+  &nbsp;·&nbsp;
+  <strong>📊 Data Analytics</strong>
+  &nbsp;·&nbsp;
+  <strong>✦ Digital Creativity</strong>
+</p>
 
-<sub>Web Development · Data Analytics · Digital Creativity</sub>
+</div>
 
 </div>
