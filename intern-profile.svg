@@ -108,6 +108,7 @@
   <rect x="370" y="262" width="44" height="44" rx="10" fill="#ffffff"/>
 
 
+
 <image
     x="374"
     y="266"
@@ -116,6 +117,7 @@
     preserveAspectRatio="xMidYMid meet"
     href="codsoft.png"
 />
+
 
   <text x="423" y="278" class="head white" font-size="16">CodSoft</text>
   <text x="423" y="295" class="small violetText" font-size="9">DATA ANALYTICS</text>
