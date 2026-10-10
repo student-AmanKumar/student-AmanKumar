@@ -67,18 +67,7 @@
 <br><br>
  <div align="center">
 
-<h2>
-  <span>Designed &amp; built with curiosity by</span><br>
-  <strong>⚡ Aman Kumar</strong>
-</h2>
-
-<p>
-  <strong>🌐 Web Development</strong>
-  &nbsp;·&nbsp;
-  <strong>📊 Data Analytics</strong>
-  &nbsp;·&nbsp;
-  <strong>✦ Digital Creativity</strong>
-</p>
+<img src="/footer.svg" width="100%" alt="Animated technology outro" />
 
 </div>
 
