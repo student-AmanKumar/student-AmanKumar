@@ -109,7 +109,7 @@ Image gallery, calculator, and portfolio website.
 </tr>
 <tr>
 <td align="center" width="90">
-<img src="./assets/images/tata.png" width="48" height="48" alt="Tata Group logo" />
+<img src="https://thumbs.dreamstime.com/b/logo-icon-vector-logos-icons-set-social-media-flat-banner-vectors-svg-eps-jpg-jpeg-paper-texture-glossy-emblem-wallpaper-210443695.jpg" width="48" height="48" alt="Tata Group logo" />
 </td>
 <td valign="middle">
 
