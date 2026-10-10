@@ -77,9 +77,9 @@
     y="87"
     width="104"
     height="104"
+    href="./id.png"
+    xlink:href="./id.png"
     preserveAspectRatio="xMidYMid meet"
-    clip-path="url(#logoClip)"
-    href="/me.png"
 />
   
   <circle cx="858" cy="139" r="58" fill="none" stroke="url(#flow)" stroke-width="1.5" stroke-dasharray="4 7">
