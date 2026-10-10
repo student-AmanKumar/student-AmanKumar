@@ -23,7 +23,7 @@
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
-  <img src="/images/codealpha-logo.png" width="24" height="24" alt="CodeAlpha" /> <strong></strong>
+  <img src="/codealpha.png" width="24" height="24" alt="CodeAlpha" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Aman-OS/">
