@@ -81,7 +81,7 @@ SQL · Analytics · Dashboards
 <table>
 <tr>
 <td align="center" width="90">
-<img src="https://horizons-cdn.hostinger.com/8f0a581d-c54f-4ffa-8202-4c85bfae389f/9b52e676263672e53fa564923e23fb4a.png" width="48" height="48" alt="CodSoft logo" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR7kLWhn0G1UKFk4vbqYM0FzU54OLu8Kr-z1JnFQoT3jQDpOWkChxQnUA&s=10" width="48" height="48" alt="CodSoft logo" />
 </td>
 <td valign="middle">
 
