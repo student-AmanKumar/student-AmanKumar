@@ -24,7 +24,7 @@
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
-  <img src="/codealpha.png" width="24" height="24" alt="CodeAlpha" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4n-XPaO8hNxuTgTd2ou2KkgwJ7dgla9O4YtIZAK5UU0ypdrYMovOPUJk&s=10" width="24" height="24" alt="CodeAlpha" />
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Aman-OS/">
