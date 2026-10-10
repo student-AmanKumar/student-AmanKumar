@@ -74,7 +74,7 @@
   <image x="806" y="87" width="104" height="104"
          preserveAspectRatio="xMidYMid meet"
          clip-path="url(#logoClip)"
-         xlink:href="images/logo.png"/>
+         xlink:href="me.png"/>
   <circle cx="858" cy="139" r="58" fill="none" stroke="url(#flow)" stroke-width="1.5" stroke-dasharray="4 7">
     <animateTransform attributeName="transform" type="rotate" from="0 858 139" to="360 858 139" dur="18s" repeatCount="indefinite"/>
   </circle>
@@ -106,8 +106,14 @@
   <rect x="352" y="245" width="296" height="159" rx="14" class="card"/>
   <rect x="352" y="245" width="296" height="2" rx="1" fill="url(#violet)"/>
   <rect x="370" y="262" width="44" height="44" rx="10" fill="#ffffff"/>
-  <image x="374" y="266" width="36" height="36" preserveAspectRatio="xMidYMid meet"
-    xlink:href="https://www.google.com/s2/favicons?domain=codsoft.in&amp;sz=128"/>
+  <image
+    x="374"
+    y="266"
+    width="36"
+    height="36"
+    preserveAspectRatio="xMidYMid meet"
+    href="codsoft.png"
+/>
   <text x="423" y="278" class="head white" font-size="16">CodSoft</text>
   <text x="423" y="295" class="small violetText" font-size="9">DATA ANALYTICS</text>
   <rect x="370" y="316" width="137" height="22" rx="11" fill="#211c3d" stroke="#51418a"/>
