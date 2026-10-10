@@ -19,25 +19,25 @@
 <div align="center">
 
 <a href="https://student-amankumar.github.io/aman-digital-space/">
-  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong>Personal Portfolio</strong>
+  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
-  <img src="/images/codealpha-logo.png" width="24" height="24" alt="CodeAlpha" /> <strong>CodeAlpha Tasks</strong>
+  <img src="/images/codealpha-logo.png" width="24" height="24" alt="CodeAlpha" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Aman-OS/">
-  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" /> <strong>Aman-OS</strong>
+  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" /> <strong></strong>
 </a>
 
 <br><br>
 
 <a href="https://student-amankumar.github.io/Tomorrow/">
-  <img src="/images/tomorrow-logo.png" width="24" height="24" alt="Tomorrow" /> <strong>Tomorrow</strong>
+  <img src="/images/tomorrow-logo.png" width="24" height="24" alt="Tomorrow" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://github.com/student-AmanKumar">
-  <img src="/images/bhamori-logo.png" width="24" height="24" alt="Bhamori Khurd" /> <strong>Bhamori Khurd Digital Village</strong>
+  <img src="/images/bhamori-logo.png" width="24" height="24" alt="Bhamori Khurd" /> <stron></strong>
 </a>
 
 </div>
