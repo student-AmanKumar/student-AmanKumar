@@ -14,39 +14,39 @@
 
 ---
 
+
 <h3 align="center">🔷 EXPLORE MY PROJECTS</h3>
 
 <div align="center">
 
 <a href="https://student-amankumar.github.io/aman-digital-space/">
-  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong></strong>
+  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" />
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
-  <img src="/codealpha.png" width="24" height="24" alt="CodeAlpha" /> <strong></strong>
+  <img src="/codealpha.png" width="24" height="24" alt="CodeAlpha" />
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Aman-OS/">
-  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" /> <strong></strong>
+  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" />
 </a>
 
 <br><br>
 
 <a href="https://student-amankumar.github.io/Tomorrow/">
-  <img src="/images/tomorrow-logo.png" width="24" height="24" alt="Tomorrow" /> <strong></strong>
+  <img src="/images/tomorrow-logo.png" width="24" height="24" alt="Tomorrow" />
 </a>
 &nbsp; · &nbsp;
 <a href="https://github.com/student-AmanKumar">
-  <img src="/images/bhamori-logo.png" width="24" height="24" alt="Bhamori Khurd" /> <stron></strong>
+  <img src="/images/bhamori-logo.png" width="24" height="24" alt="Bhamori Khurd" />
 </a>
 
 </div>
 
 <div align="center">
-
-<img src="/connect.svg" width="100%" alt="Connect with Aman Kumar" />
-
+  <img src="/connect.svg" width="100%" alt="Connect with Aman Kumar" />
 </div>
+
 
 ---
 
