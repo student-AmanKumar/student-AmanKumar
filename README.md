@@ -55,19 +55,19 @@
 <div align="center">
 
 <a href="https://github.com/student-AmanKumar">
-  <img src="/images/github-logo.png" width="24" height="24" alt="GitHub" /> <strong>GitHub</strong>
+  <img src="/images/github-logo.png" width="24" height="24" alt="GitHub" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-  <img src="/images/linkedin-logo.png" width="24" height="24" alt="LinkedIn" /> <strong>LinkedIn</strong>
+  <img src="/images/linkedin-logo.png" width="24" height="24" alt="LinkedIn" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://codepen.io/ydvaman">
-  <img src="/images/codepen-logo.png" width="24" height="24" alt="CodePen" /> <strong>CodePen</strong>
+  <img src="/images/codepen-logo.png" width="24" height="24" alt="CodePen" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/aman-digital-space/">
-  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong>Portfolio</strong>
+  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong></strong>
 </a>
 
 <br><br>
