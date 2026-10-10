@@ -51,7 +51,7 @@
 ---
 
 <h3 align="center">
-  <img src="/me.png" width="24" height="24" alt="Aman Kumar Logo" />
+  <img src="/id.png" width="25" height="25" alt="Aman Kumar Logo" />
   FIND ME ONLINE
 </h3>
 
