@@ -259,7 +259,7 @@ A central place to explore my profile, projects, skills, and professional journe
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
-<img src="./assets/images/linkedin.png" width="56" height="56" alt="LinkedIn" />
+<img src="https://img.magnific.com/premium-vector/vector-linkedin-apps-logo-rounded-asset-isolated_1004619-457.jpg?semt=ais_hybrid&w=740&q=80" width="56" height="56" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://codepen.io/ydvaman">
