@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="/id.png" width="100" height="100" alt="Aman Kumar" />
+<img src="https://github.com/student-AmanKumar/student-AmanKumar/raw/main/hero.svg?v=1" width="100" height="100" alt="Aman Kumar" />
 
 <h2>01 / ABOUT</h2>
 
