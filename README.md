@@ -55,7 +55,7 @@
 <div align="center">
 
 <a href="https://github.com/student-AmanKumar">
-  <img src="/github.png" width="24" height="24" alt="GitHub" /> <strong></strong>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="24" height="24" alt="GitHub" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
@@ -63,7 +63,7 @@
 </a>
 &nbsp; · &nbsp;
 <a href="https://codepen.io/ydvaman">
-  <img src="/codepen.png" width="24" height="24" alt="CodePen" /> <strong></strong>
+  <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="24" height="24" alt="CodePen" /> <strong></strong>
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/aman-digital-space/">
