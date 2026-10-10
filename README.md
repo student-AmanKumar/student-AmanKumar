@@ -10,7 +10,6 @@
 
 <img src="/projects.svg" width="100%" alt="Aman Kumar featured projects" />
 
-<img src="/connect.svg" width="100%" alt="Aman Kumar featured projects" />
 
 
 </div>
@@ -37,7 +36,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg" width="100%" alt="Connect with Aman Kumar" />
+<img src="/connect.svg" width="100%" alt="Connect with Aman Kumar" />
 
 </div>
 
