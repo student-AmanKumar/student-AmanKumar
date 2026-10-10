@@ -2,7 +2,7 @@
 
 <img src="/hero.svg" width="100%" alt="Aman Kumar — Developer and Aspiring Data Analyst" />
 
-<img src="/about.svg" width="100%" alt="About Aman Kumar" />
+<img src="/about-life.svg" width="100%" alt="About Aman Kumar" />
 
 <img src="/stack.svg" width="100%" alt="Technology stack and tools" />
 
