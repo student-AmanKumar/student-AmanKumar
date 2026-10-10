@@ -71,16 +71,16 @@
     <animate attributeName="stroke-opacity" values=".55;1;.55" dur="4s" repeatCount="indefinite"/>
   </circle>
   <circle cx="858" cy="139" r="56" fill="#070b16" stroke="#30415f" stroke-width="1"/>
- 
 <image
     x="806"
     y="87"
     width="104"
     height="104"
     preserveAspectRatio="xMidYMid meet"
-    href="./id.png"
+    clip-path="url(#logoClip)"
+    href="id.png"
+    xlink:href="id.png"
 />
-  
   <circle cx="858" cy="139" r="58" fill="none" stroke="url(#flow)" stroke-width="1.5" stroke-dasharray="4 7">
     <animateTransform attributeName="transform" type="rotate" from="0 858 139" to="360 858 139" dur="18s" repeatCount="indefinite"/>
   </circle>
