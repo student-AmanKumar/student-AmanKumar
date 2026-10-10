@@ -1,4 +1,4 @@
-```svg
+codealpha ka img logo hi dikh rha h aur waki nhi dikh rhe  
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="510" viewBox="0 0 1000 510">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -31,10 +31,7 @@
     </clipPath>
     <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
       .head{font-family:Arial,Helvetica,sans-serif;font-weight:800;letter-spacing:2px}
@@ -69,7 +66,7 @@
   <text x="38" y="190" class="head white" font-size="41">EXPERIENCE<tspan fill="#438dff">.</tspan></text>
   <text x="41" y="215" class="body muted" font-size="13">Turning practical tasks into skills, projects and real progress.</text>
 
-  <!-- PERSONAL LOGO -->
+  <!-- PERSONAL LOGO INSTEAD OF ORBIT ANIMATION -->
   <circle cx="858" cy="139" r="62" fill="#111d35" stroke="url(#flow)" stroke-width="2">
     <animate attributeName="stroke-opacity" values=".55;1;.55" dur="4s" repeatCount="indefinite"/>
   </circle>
@@ -77,7 +74,7 @@
   <image x="806" y="87" width="104" height="104"
          preserveAspectRatio="xMidYMid meet"
          clip-path="url(#logoClip)"
-         href="me.png"/>
+         xlink:href="me.png"/>
   <circle cx="858" cy="139" r="58" fill="none" stroke="url(#flow)" stroke-width="1.5" stroke-dasharray="4 7">
     <animateTransform attributeName="transform" type="rotate" from="0 858 139" to="360 858 139" dur="18s" repeatCount="indefinite"/>
   </circle>
@@ -86,16 +83,15 @@
   <rect x="35" y="245" width="296" height="159" rx="14" class="card"/>
   <rect x="35" y="245" width="296" height="2" rx="1" fill="url(#blue)"/>
   <rect x="53" y="262" width="44" height="44" rx="10" fill="#ffffff"/>
-
-  <!-- CodeAlpha logo: embedded image -->
-  <image
-    x="57"
-    y="266"
-    width="35"
-    height="40"
-    preserveAspectRatio="xMidYMid meet"
-    href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ4AAACUCAMAAABV5TcGAAABSlBMVEX////x8/sAff6x0vmNld4AhPv4+fzz9v76/P0Aef1fdtoAdfsAAAAAbPwAW/UAGs8RdvYAOuHq7fgALeOIn+W8yPExhO4ASfIASuuJpOWuw/Dd3uIAVPIAYvvd6fLLy9DD2vYAACYAXf3EzOgAT+jb4PQAANEAAB4AABV4eIemqbOhw+4AfPZPUWIAAL3f6/wAauQAa++hwvdzpPhlmvW4zuOetvWEpvEAOeoAR/t0kOU+W4..."
-  />
+  
+<image
+  x="57"
+  y="266"
+  width="35"
+  height="40"
+  preserveAspectRatio="xMidYMid meet"
+  href="data:image/png;base64,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"
+/>
 
   <text x="106" y="278" class="head white" font-size="16">CodeAlpha</text>
   <text x="106" y="295" class="small blueText" font-size="9">FRONTEND DEVELOPMENT</text>
@@ -110,17 +106,14 @@
   <rect x="352" y="245" width="296" height="159" rx="14" class="card"/>
   <rect x="352" y="245" width="296" height="2" rx="1" fill="url(#violet)"/>
   <rect x="370" y="262" width="44" height="44" rx="10" fill="#ffffff"/>
-
-  <!-- Save CodSoft logo as images/codsoft-logo.png -->
-  <image
+ <image
     x="374"
     y="266"
     width="40"
     height="40"
     preserveAspectRatio="xMidYMid meet"
     href="https://horizons-cdn.hostinger.com/8f0a581d-c54f-4ffa-8202-4c85bfae389f/9b52e676263672e53fa564923e23fb4a.png"
-  />
-
+/>
   <text x="423" y="278" class="head white" font-size="16">CodSoft</text>
   <text x="423" y="295" class="small violetText" font-size="9">DATA ANALYTICS</text>
   <rect x="370" y="316" width="137" height="22" rx="11" fill="#211c3d" stroke="#51418a"/>
@@ -134,8 +127,6 @@
   <rect x="669" y="245" width="296" height="159" rx="14" class="card"/>
   <rect x="669" y="245" width="296" height="2" rx="1" fill="url(#red)"/>
   <rect x="687" y="262" width="44" height="44" rx="10" fill="#ffffff"/>
-
-  <!-- Save Tata logo as images/tata-group-logo.png -->
   <image
     x="691"
     y="266"
@@ -143,8 +134,7 @@
     height="38"
     preserveAspectRatio="xMidYMid meet"
     href="https://1000logos.net/wp-content/uploads/2020/04/Tata-Logo-1988.png"
-  />
-
+/>
   <text x="740" y="278" class="head white" font-size="16">Tata Group</text>
   <text x="740" y="295" class="small redText" font-size="9">DATA ANALYTICS SIMULATION</text>
   <rect x="687" y="316" width="121" height="22" rx="11" fill="#351b2a" stroke="#713044"/>
@@ -181,4 +171,3 @@
     <animate attributeName="width" values="170;250;170" dur="2.5s" repeatCount="indefinite"/>
   </rect>
 </svg>
-```
