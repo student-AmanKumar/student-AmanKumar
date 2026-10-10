@@ -54,11 +54,11 @@
 
 <div align="center">
 
-<a href="https://github.com/student-AmanKumar">
+<a href="https://github.com/student-AmanKumar" style="text-decoration:none; border-bottom:0;">
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" width="24" height="24" />
 </a>
 
-<a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
+<a href="https://www.linkedin.com/in/aman-kumar-462a21316/"  style="text-decoration:none; border-bottom:0;" >
   <img src="/linkedin.png" width="30" height="30" /> 
 </a>
 
@@ -66,8 +66,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="30" height="30"/> 
 </a>
 
-<a href="https://student-amankumar.github.io/aman-digital-space/">
-  <img src="/portfolio.png" width="30" height="30" /> 
+<a href="https://student-amankumar.github.io/aman-digital-space/" style="text-decoration:none; border-bottom:0;">
+  <img src="/portfolio-logo.png" width="24" height="24" alt="Portfolio" />
 </a>
 
 <br><br>
