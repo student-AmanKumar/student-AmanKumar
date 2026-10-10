@@ -20,7 +20,7 @@
 <div align="center">
 
 <a href="https://student-amankumar.github.io/aman-digital-space/">
-  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" />
+  <img src="/github portfolio.jpeg" width="24" height="24" alt="Portfolio" />
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
