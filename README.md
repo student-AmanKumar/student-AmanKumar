@@ -95,7 +95,7 @@ Data cleaning, exploratory data analysis, dashboards, and customer analysis.
 </tr>
 <tr>
 <td align="center" width="90">
-<img src="codealpha.png" width="48" height="48" alt="CodeAlpha logo" />
+<img src="https://yt3.googleusercontent.com/Ro5aEXzoidF_7SYoPHp_L7OzwlL2CxHQLF8RfmhWyYJAMQKtM5DHz-UtUfsZ6ogWDssoBcWI3Q=s900-c-k-c0x00ffffff-no-rj" width="48" height="48" alt="CodeAlpha logo" />
 </td>
 <td valign="middle">
 
