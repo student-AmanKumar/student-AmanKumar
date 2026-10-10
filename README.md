@@ -63,7 +63,7 @@
 </a>
 
 <a href="https://codepen.io/ydvaman">
-  <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="30" height="30"  /> <strong> Codepen </strong>
+  <img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="30" height="30"  /> <strong style="color"red"> Codepen </strong>
 </a>
 
 <a href="https://student-amankumar.github.io/aman-digital-space/">
