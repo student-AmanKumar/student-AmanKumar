@@ -81,7 +81,7 @@ SQL · Analytics · Dashboards
 <table>
 <tr>
 <td align="center" width="90">
-<img src="./assets/images/codsoft.png" width="48" height="48" alt="CodSoft logo" />
+<img src="/id.png" width="48" height="48" alt="CodSoft logo" />
 </td>
 <td valign="middle">
 
