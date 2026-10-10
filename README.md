@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="/hero.svg?v=1" width="100%" alt="Aman Kumar — Developer and Aspiring Data Analyst" />
@@ -28,7 +29,7 @@ I’m **Aman Kumar**, a developer and aspiring data analyst from India. I enjoy 
 ## `02 / EXPERIENCE`
 
 | Experience | Focus |
-| --- | --- |
+|---|---|
 | **CodSoft — Data Analytics Intern** · 2026–Present | Data cleaning, exploratory analysis, dashboards, and customer analysis |
 | **CodeAlpha — Frontend Intern** · 2026 | Image gallery, calculator, and portfolio website |
 | **Tata Group Data Analytics Job Simulation** · Forage, 2026 | Exploratory analysis, delinquency risk, and AI-supported collections strategy |
@@ -36,7 +37,7 @@ I’m **Aman Kumar**, a developer and aspiring data analyst from India. I enjoy 
 ## `03 / SELECTED PROJECTS`
 
 | Project | What it is | Live preview |
-| --- | --- | --- |
+|---|---|---|
 | **Bhamori Khurd Digital Village** | A digital village archive celebrating local stories, culture, and memories. | [Open project](https://student-amankumar.github.io/) |
 | **LifeDesk** | A personal productivity and life-tracking workspace. | [Open project](https://student-amankumar.github.io/LifeDesk/) |
 | **Aman Workspace** | A focused personal hub for organizing digital spaces. | [Open project](https://student-amankumar.github.io/My-Workspce/) |
@@ -46,9 +47,19 @@ I’m **Aman Kumar**, a developer and aspiring data analyst from India. I enjoy 
 
 ## `04 / CONNECT`
 
-- **LinkedIn:** [aman-kumar-462a21316](https://www.linkedin.com/in/aman-kumar-462a21316/)
-- **GitHub:** [student-AmanKumar](https://github.com/student-AmanKumar)
-- **CodePen:** [ydvaman](https://codepen.io/ydvaman)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/student-AmanKumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://codepen.io/ydvaman">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</p>
 
 ---
 
