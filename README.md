@@ -60,7 +60,7 @@
 &nbsp;&nbsp;
 <a href="https://codepen.io/ydvaman"><img src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png" width="30" height="30" alt="CodePen" /></a>
 
-<a href="https://student-amankumar.github.io/aman-digital-space/"><img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /></a>
+<a href="https://student-amankumar.github.io/CodeAlpha_Tasks/Task2/"><img src="/me.png" width="24" height="24" alt="Portfolio" /></a>
 
 <br><br>
 
