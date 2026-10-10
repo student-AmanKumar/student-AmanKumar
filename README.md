@@ -14,23 +14,31 @@
 
 ---
 
+<h3 align="center">🔷 EXPLORE MY PROJECTS</h3>
+
 <div align="center">
 
-<img src="/images/projects-logo.png" width="34" height="34" alt="Projects" />
-
-<h3 align="center" style="color:#247bff;">EXPLORE MY PROJECTS</h3>
-
-<a href="https://student-amankumar.github.io/aman-digital-space/"><strong>🔹 Personal Portfolio ↗</strong></a>
+<a href="https://student-amankumar.github.io/aman-digital-space/">
+  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong>Personal Portfolio</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://student-amankumar.github.io/CodeAlpha_Tasks/"><strong>🔹 CodeAlpha Tasks ↗</strong></a>
+<a href="https://student-amankumar.github.io/CodeAlpha_Tasks/">
+  <img src="/images/codealpha-logo.png" width="24" height="24" alt="CodeAlpha" /> <strong>CodeAlpha Tasks</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://student-amankumar.github.io/Aman-OS/"><strong>🔹 Aman-OS / Workspace ↗</strong></a>
+<a href="https://student-amankumar.github.io/Aman-OS/">
+  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" /> <strong>Aman-OS</strong>
+</a>
 
 <br><br>
 
-<a href="https://student-amankumar.github.io/Tomorrow/"><strong>🔹 Tomorrow ↗</strong></a>
+<a href="https://student-amankumar.github.io/Tomorrow/">
+  <img src="/images/tomorrow-logo.png" width="24" height="24" alt="Tomorrow" /> <strong>Tomorrow</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://github.com/student-AmanKumar"><strong>🔹 Bhamori Khurd & More Projects ↗</strong></a>
+<a href="https://github.com/student-AmanKumar">
+  <img src="/images/bhamori-logo.png" width="24" height="24" alt="Bhamori Khurd" /> <strong>Bhamori Khurd Digital Village</strong>
+</a>
 
 </div>
 
@@ -42,19 +50,25 @@
 
 ---
 
+<h3 align="center">🔴 FIND ME ONLINE</h3>
+
 <div align="center">
 
-<img src="/images/connect-logo.png" width="34" height="34" alt="Connect" />
-
-<h3 align="center" style="color:#ff354f;">FIND ME ONLINE</h3>
-
-<a href="https://github.com/student-AmanKumar"><strong>GitHub ↗</strong></a>
+<a href="https://github.com/student-AmanKumar">
+  <img src="/images/github-logo.png" width="24" height="24" alt="GitHub" /> <strong>GitHub</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/aman-kumar-462a21316/"><strong>LinkedIn ↗</strong></a>
+<a href="https://www.linkedin.com/in/aman-kumar-462a21316/">
+  <img src="/images/linkedin-logo.png" width="24" height="24" alt="LinkedIn" /> <strong>LinkedIn</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://codepen.io/ydvaman"><strong>CodePen ↗</strong></a>
+<a href="https://codepen.io/ydvaman">
+  <img src="/images/codepen-logo.png" width="24" height="24" alt="CodePen" /> <strong>CodePen</strong>
+</a>
 &nbsp; · &nbsp;
-<a href="https://student-amankumar.github.io/aman-digital-space/"><strong>Portfolio ↗</strong></a>
+<a href="https://student-amankumar.github.io/aman-digital-space/">
+  <img src="/images/portfolio-logo.png" width="24" height="24" alt="Portfolio" /> <strong>Portfolio</strong>
+</a>
 
 <br><br>
 
