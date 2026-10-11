@@ -44,7 +44,7 @@
 </div>
 
 <div align="center">
-  <img src="/intern-profile.svg?v=1" width="100%" alt="Aman Kumar — Internship Experience" />
+  <img src="/intern-profile-final-v2.svg" width="100%" alt="Aman Kumar — Internship Experience" />
 </div>
 
 
