@@ -27,8 +27,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP4n-XPaO8hNxuTgTd2ou2KkgwJ7dgla9O4YtIZAK5UU0ypdrYMovOPUJk&s=10" width="24" height="24" alt="CodeAlpha" />
 </a>
 &nbsp; · &nbsp;
-<a href="https://student-amankumar.github.io/Aman-OS/">
-  <img src="/images/aman-os-logo.png" width="24" height="24" alt="Aman OS" />
+<a href="https://student-amankumar.github.io/Bhola-Cold-Drinks/">
+  <img src="/Screenshot 2026-10-12 204118.png" width="24" height="24" alt="Aman OS" />
 </a>
 
 <br><br>
