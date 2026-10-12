@@ -15,7 +15,7 @@
 ---
 
 
-<h3 align="center">🔷 EXPLORE MY PROJECTS</h3>
+<h3 align="center">🔷 EXPLORE MY WORKS </h3>
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Bhola-Cold-Drinks/">
-  <img src="/colddrink.png" width="24" height="24" alt="Aman OS" />
+  <img src="colddrink.png" width="24" height="24" alt="Aman OS" />
 </a>
 
 <br><br>
