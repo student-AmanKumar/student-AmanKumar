@@ -28,7 +28,7 @@
 </a>
 &nbsp; · &nbsp;
 <a href="https://student-amankumar.github.io/Bhola-Cold-Drinks/">
-  <img src="/Screenshot 2026-10-12 204118.png" width="24" height="24" alt="Aman OS" />
+  <img src="/colddrink.png" width="24" height="24" alt="Aman OS" />
 </a>
 
 <br><br>
